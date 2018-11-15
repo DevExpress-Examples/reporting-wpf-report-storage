@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication38/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication38/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication38/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication38/MainWindow.xaml))
+* [DataSetFileStorage.cs](./CS/WpfApplication38/Storages/DataSetFileStorage.cs) (VB: [DataSetFileStorage.vb](./VB/WpfApplication38/Storages/DataSetFileStorage.vb))
+* [StorageDataSet.cs](./CS/WpfApplication38/Storages/StorageDataSet.cs) (VB: [StorageDataSet.vb](./VB/WpfApplication38/Storages/StorageDataSet.vb))
+* [StorageEditorForm.xaml](./CS/WpfApplication38/Storages/StorageEditorForm.xaml) (VB: [StorageEditorForm.xaml.vb](./VB/WpfApplication38/Storages/StorageEditorForm.xaml.vb))
+* [StorageEditorForm.xaml.cs](./CS/WpfApplication38/Storages/StorageEditorForm.xaml.cs) (VB: [StorageEditorForm.xaml.vb](./VB/WpfApplication38/Storages/StorageEditorForm.xaml.vb))
+* [XtraReport1.cs](./CS/WpfApplication38/Storages/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/WpfApplication38/Storages/XtraReport1.vb))
+<!-- default file list end -->
 # WPF End-User Report Designer - How to Implement a Report Storage
 
 
