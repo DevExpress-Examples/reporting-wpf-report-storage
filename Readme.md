@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/WpfApplication38/MainWindow.xaml)
+* [MainWindow.xaml.cs](./CS/WpfApplication38/MainWindow.xaml.cs)
+* [DataSetFileStorage.cs](./CS/WpfApplication38/Storages/DataSetFileStorage.cs)
+* [StorageEditorForm.xaml](./CS/WpfApplication38/Storages/StorageEditorForm.xaml)
+* [StorageEditorForm.xaml.cs](./CS/WpfApplication38/Storages/StorageEditorForm.xaml.cs)
+* [XpoFileStorage.cs](./CS/WpfApplication38/Storages/XpoFileStorage.cs)
+* [ZipFileStorage.cs](./CS/WpfApplication38/Storages/ZipFileStorage.cs)
+<!-- default file list end -->
 # WPF End-User Report Designer - How to Implement a Report Storage
 
 
