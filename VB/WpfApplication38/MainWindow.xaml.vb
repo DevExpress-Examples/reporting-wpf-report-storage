@@ -28,14 +28,6 @@ Namespace WpfApplication38
 
 		Private Sub MainWindow_Loaded(ByVal sender As Object, ByVal e As RoutedEventArgs)
 			reportDesigner.ReportStorage = New DataSetFileStorage()
-
-			'Uncomment this line to register a report storage that uses XPO.
-			' string conn = DevExpress.Xpo.DB.MSSqlConnectionProvider.GetConnectionString(@"your server name", string.Empty);
-			' XpoDefault.DataLayer = XpoDefault.GetDataLayer(conn, DevExpress.Xpo.DB.AutoCreateOption.DatabaseAndSchema);
-			' reportDesigner.FileStorage = new XpoFileStorage(new UnitOfWork(XpoDefault.DataLayer));
-
-			' Uncomment this line to register a report storage, which uses Zip file.
-			' reportDesigner.FileStorage = new ZipFileStorage();
 		End Sub
 	End Class
 
