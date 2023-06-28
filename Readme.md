@@ -2,7 +2,7 @@
 # Reporting for WPF - How to Implement a Report Storage
 
 
-This document describes how to implement a report storage to persist report definitions in a database or in any other custom location. A report storage enables end-users to create and customize reports in the Report Designer and have a common target for saving and sharing all reports.
+This example implements a report storage to persist report definitions in a database or in any other custom location. A report storage enables end-users to create and customize reports in the Report Designer and have a common target for saving and sharing all reports.
 
 ![Report Storage in WPF application](Images/screenshot.png)
 ## Files to Review
