@@ -131,7 +131,7 @@ namespace WpfApplication38
         {
             using (MemoryStream stream = new MemoryStream())
             {
-                report.SaveLayout(stream);
+                report.SaveLayoutToXml(stream);
                 return stream.ToArray();
             }
         }
